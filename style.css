@@ -15,9 +15,13 @@ img {
     
 }
 .image {
+    width: 10rem;
+    height: 10rem;
    background: var(--color-title);
     margin-top: 0;
-    
+    line-height: 1.3;
+    margin: 0px;
+    padding: 0px;
 }
 header {
     background: var(--color-header);
